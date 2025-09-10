@@ -1,2 +1,2 @@
 # Dummy-Repo
-Oefeningen
+Oefeningen voor OTAP en Git
